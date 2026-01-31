@@ -22,11 +22,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
  <a href="citizeninsane0597" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a hred = "mailto:fabianacrecencio@hotmail.com"><img src= https://img.shields.io/badge/_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)
   <a href = "mailto:fabianahammett@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabianacrecencio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-<img align="center" alt=""  width="90%" height="320px" src="https://i.pinimg.com/originals/b1/14/99/b114990115fc3eeb650a63100373306f.gif" />
- 
+  <a href="https://www.linkedin.com/in/fabianacrecencio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 <h3 align="left">My Stack </h3>
 <div style="display: inline_block"><br>
