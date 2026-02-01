@@ -7,12 +7,10 @@
   </a>
 </div>
 
-Me chamo Fabiana Crecencio da Silva, tenho 28 anos e sou natural do Espírito Santo. Formada em Análise e Desenvolvimento de Sistemas pela faculdade Multivix. 
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Sou Fabiana Crecencio da Silva, 28 anos, natural do Espírito Santo, formada em Análise e Desenvolvimento de Sistemas pela Faculdade Multivix.
+Tenho interesse em tecnologia e estou sempre buscando evoluir profissionalmente, aprendendo novas ferramentas e colocando esses conhecimentos em prática no desenvolvimento de soluções.
   
  ✮ Procuro por minha primeira oportunidade de trabalho na área
- 
- ✰ Atualmente estudo REACT 
 
 
 <h3 align="center">Connect with me!</h3>
